@@ -1,0 +1,11 @@
+ 
+ErrorDocument /error.html
+
+RewriteEngine on
+
+RewriteCond %{index} ^/(.+)\.html?$ [nocase]
+RewriteRule ^ /%1 [L,R=301]
+
+RewriteCond %{index.html} !-d
+RewriteCond %{index.html}.html -f
+RewriteRule ^ %{index}.html [END]

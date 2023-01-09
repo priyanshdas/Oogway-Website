@@ -1,0 +1,37 @@
+About Bot:-
+
+Created on 23/1/2021 it had a very long journey to be where it is now. 
+The Predecessor of this bot (Ebot) was declined for verification by discord cause according to discord it gained servers illegally.
+And this was created. The initial name (SueBot) was kept because the Ebot team wanted to sue discord legally that the verification process they had 
+was wrong cause we never ever added servers illegally. We used top.gg and Social Media for the bot to gain servers.
+It took a year to have 100+ commands and aliases with a lot of support from the contributors of the bot. The most time taking were the commands which could be 
+customized according to the server.
+
+
+
+Features:-
+
+1) 100+ commands
+2) Advance Music and Ticket System
+3) Customizable Welcoming System
+4) Advance Pokedex
+5) Most advance Information command of discord
+
+
+
+FAQs:-
+
+1) Who is the Creator/ Developer of the bot?
+Ans - EPD#5022
+
+2) How do i invite the bot? 
+Ans - Just click the invite link above
+
+3) Why does the bot need administrator Permission and will it work without it?
+Ans -  The bot needs administrator cause of the multiple commands it has. However if you want to remove ADMIN then you need to enable all permissions manuallly before for the bot to work smoothly.
+
+4) How do i stop the bot to work in other channels?
+Ans - Remove administrator from the bot and the give all the perms manually. Then go to the channel and Remove VIEW_CHANNEL from the bot.
+
+5) What language is used and is the code of the bot public?
+Ans - No the code of the bot and the language is not revealed to the public.
